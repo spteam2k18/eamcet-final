@@ -1,0 +1,11 @@
+To ready loopback backend type to command in destination location :  npm i
+
+To start loopback server which is connected to mongodb is 	  :  node . (node space dot)
+
+To check the sever status on browser using url 			  : http://localhost:3000/explorer
+
+To check the xampp server status on browser using url 		  : ip_add:81/ModelEamcet
+
+-------------- don't forger to add system ip address at xampp text file "ModelEamcet\assets\text files\Server_IP_address.txt"
+
+------------------ Server_IP_address_secoundry is optional for backup prupose ....... 

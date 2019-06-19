@@ -1,0 +1,33 @@
+{
+  "name": "recovery",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "SetNum": {
+      "type": "number"
+    },
+    "timeleft": {
+      "type": "number"
+    },
+    "QuesResponses": {
+      "type": [
+        "string"
+      ]
+    },
+    "QuesStatus": {
+      "type": [
+        "number"
+      ]
+    },
+    "phone": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

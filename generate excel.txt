@@ -1,0 +1,6 @@
+copy the json file from loopback and paste it on given website. 
+
+loopback url 	 : localhost:3000/explorer
+json to csv conv : https://json-csv.com/
+
+

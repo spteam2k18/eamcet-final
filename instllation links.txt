@@ -1,0 +1,7 @@
+node js			: https://blog.teamtreehouse.com/install-node-js-npm-windows
+
+loopback 		: https://loopback.io/doc/en/lb3/Installation.html#prerequisite-install-nodejs
+
+command to install lb	: npm install -g loopback-cli
+
+xampp server		:https://www.youtube.com/watch?v=N6ENnaRotmo

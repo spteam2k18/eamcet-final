@@ -1,0 +1,10 @@
+MUST FOLLOW RULES:
+1.College names should be seperated by coma(,) character.
+2.watch video to know how to start database server and working functionality of website.
+3.Timer time shoud be in minutes like ( 5400min for 1:30min)
+4.Password is not changeable. 
+5.Available passwords are: ------ urce  or URCE ---------
+6.Password to change set number in any exam(eamcet/mains) is : ----- change or CHANGE -----
+7.Excel file generation  after exam is easy if u follow the video carefully.
+8.Make sure database need to be clear before start exam.
+9.Collection name need to be cleared: URmodel, backupdata, recovery
